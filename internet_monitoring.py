@@ -2,7 +2,7 @@ import speedtest
 import datetime
 import subprocess
 import platform
-#
+
 
 class colors:
     grey = '\x1b[38;21m'
